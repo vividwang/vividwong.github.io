@@ -1,6 +1,10 @@
 ### This is my page.
 
-#### username: vivid
-#### introduce: A good guy.
+#### 姓名： Vivid
+#### 个人简介： 一名程序员
 
-This is my first time to use this server
+### 介绍：
+
+1995年生人，从高中开始就对计算机技术感兴趣，本科就读的是网络工程专业，工作经验将近三年
+
+平常爱好： 运动🏊‍♀️，看书，音乐，扫街
